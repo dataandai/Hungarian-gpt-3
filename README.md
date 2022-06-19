@@ -3,6 +3,17 @@ this is the repo of our bilingual English-Hungarian GPT-3 model
 
 Check this out: https://juniper.nytud.hu/demo/gpt3 
 
-Prompt collection will be available soon! 
+Prompt collection is available via wiki pages.
 
-# Check the Wiki pages for descriptions and prompts
+# Other prompt collection is here: 
+
+**https://prompts.ai/**
+
+# Check the Wiki pages for descriptions and prompts#
+
+# Read more about prompts:
+**https://blog.andrewcantino.com/blog/2021/04/21/prompt-engineering-tips-and-tricks/**
+
+**https://www.analyticsvidhya.com/blog/2022/05/prompt-engineering-in-gpt-3/**
+
+**https://towardsdatascience.com/3-tips-to-reduce-openai-gpt-3s-costs-by-smart-prompting-53c457229cfc**
