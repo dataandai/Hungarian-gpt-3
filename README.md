@@ -1,6 +1,11 @@
 # Hungarian-GPT-3 aka HILANCO-GPTX 6.7B model
 this is the repo of our bilingual English-Hungarian GPT-3 model
 
+# About HILANCO Hungarian Intelligent Language Applications Consortium
+ https://hilanco.github.io/home.html
+
+ 
+# Model is here:
 Check this out: https://juniper.nytud.hu/demo/gpt3 
 
 Prompt collection is available via wiki pages.
