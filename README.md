@@ -9,13 +9,12 @@ this is the repo of our bilingual English-Hungarian GPT-3 model
 ### Szervermigráció miatt a GPT-3 demo ideiglenesen nem elérhető!!!
 Check this out: https://juniper.nytud.hu/demo/gpt3 
 
-Prompt collection is available via wiki pages.
 
 # Other prompt collection is here: 
 
 **https://prompts.ai/**
 
-# Check the Wiki pages for descriptions and prompts#
+# Check the Wiki pages for descriptions and prompts https://github.com/dataandai/Hungarian-gpt-3.wiki.git
 
 # Read more about prompts:
 **https://blog.andrewcantino.com/blog/2021/04/21/prompt-engineering-tips-and-tricks/**
