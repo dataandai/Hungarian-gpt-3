@@ -6,6 +6,7 @@ this is the repo of our bilingual English-Hungarian GPT-3 model
 
  
 # Model is here:
+### Szervermigráció miatt a GPT-3 demo ideiglenesen nem elérhető!!!
 Check this out: https://juniper.nytud.hu/demo/gpt3 
 
 Prompt collection is available via wiki pages.
