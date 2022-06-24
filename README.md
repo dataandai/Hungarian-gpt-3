@@ -14,7 +14,7 @@ Check this out: https://juniper.nytud.hu/demo/gpt3
 
 **https://prompts.ai/**
 
-# Check the Wiki pages for descriptions and prompts https://github.com/dataandai/Hungarian-gpt-3.wiki.git
+# Check the Wiki pages for descriptions and prompts
 
 # Read more about prompts:
 **https://blog.andrewcantino.com/blog/2021/04/21/prompt-engineering-tips-and-tricks/**
