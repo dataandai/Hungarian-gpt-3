@@ -27,13 +27,13 @@ Check this out: https://juniper.nytud.hu/demo/gpt3
 
 
 
-cite this repo
+#cite this repo
 
-**@misc{hilancogptx,
-  **title = {{Prompt collection for HILANCO-GPTx}},
-  **author = {Adam Feldmann},
- ** url = {https://github.com/dataandai/Hungarian-gpt-3},
- **month = {6},
- **year = {2022},
- **version = {0.0.1}
-**}
+@misc{hilancogptx,
+  title = {{Prompt collection for HILANCO-GPTx}},
+  author = {Adam Feldmann},
+ url = {https://github.com/dataandai/Hungarian-gpt-3},
+ month = {6},
+ year = {2022},
+ version = {0.0.1}
+}
