@@ -24,3 +24,17 @@ Check this out: https://juniper.nytud.hu/demo/gpt3
 **https://www.analyticsvidhya.com/blog/2022/05/prompt-engineering-in-gpt-3/**
 
 **https://towardsdatascience.com/3-tips-to-reduce-openai-gpt-3s-costs-by-smart-prompting-53c457229cfc**
+
+
+
+cite this repo
+
+@misc{hilancogptx,
+  title = {{Prompt collection for HILANCO-GPTx}},
+  author = {Adam Feldmann},
+  url = {https://github.com/dataandai/Hungarian-gpt-3},
+ 
+  month = {6},
+  year = {2022},
+  version = {0.0.1},
+}
