@@ -19,6 +19,8 @@ Check this out:  https://juniper.nytud.hu/demo/gptx
 # Check the Wiki pages for descriptions and prompts
 
 # Read more about prompts:
+
+**https://www.mihaileric.com/posts/a-complete-introduction-to-prompt-engineering/**
 **https://blog.andrewcantino.com/blog/2021/04/21/prompt-engineering-tips-and-tricks/**
 
 **https://www.analyticsvidhya.com/blog/2022/05/prompt-engineering-in-gpt-3/**
