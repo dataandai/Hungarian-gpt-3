@@ -35,7 +35,7 @@ Check this out:  https://juniper.nytud.hu/demo/gptx
 @misc{hilancogptx,
   title = {{Prompt collection for HILANCO-GPTx}},
   author = {Adam Feldmann},
- url = {https://github.com/dataandai/Hungarian-gpt-3},
+ url = {https://juniper.nytud.hu/demo/gptx},
  month = {6},
  year = {2022},
  version = {0.0.1}
